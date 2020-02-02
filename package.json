@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "Simple node app image using docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaquinto/simple-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaquinto/simple-node-app/issues"
+  },
+  "homepage": "https://github.com/joaquinto/simple-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
